@@ -133,3 +133,79 @@ body {
     margin-left: 2%;
     margin-right: 2%;
 }
+
+.live-depend {
+    display: flex;
+    margin: 5%;
+}
+
+.live-dep-par {
+    padding-right: 10%;
+    padding-bottom: 10%;
+    padding-top: 5%;
+}
+
+.survive-image {
+    width: 100%;
+}
+
+.survive {
+    margin-left: 10%;
+}
+
+.get-updates {
+    text-align: center;
+}
+
+.get-updates h1 {}
+
+.email {
+    display: flex;
+    background-color: #fff4d6;
+    padding: 5%;
+    padding-left: 10%;
+    padding-top: 6%;
+    margin-left: 30%;
+    margin-right: 30%;
+    text-align: center;
+}
+
+.email-input {
+    background-color: #d9d9d9;
+    color: #aa9f9f;
+    border: 2px solid #d9d9d9;
+    padding: 3% 5%;
+
+}
+
+.subscribe {
+    text-decoration: none;
+    background-color: #ff5959;
+    color: white;
+    padding: 10px 10px 5px 10px;
+    border-radius: 2px;
+    font-size: 12pt;
+    border-color: #ff5959;
+    text-align: center;
+
+}
+
+.footer {
+    background-color: #0b0d17;
+    text-align: center;
+    margin-bottom: 0%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    margin-top: 3%;
+
+
+}
+
+.footer-heading {
+    color: #ff5959;
+
+}
+
+.footer-para {
+    color: #fafafa;
+}
