@@ -31,6 +31,7 @@ body {
     padding: 10px 20px 10px 20px;
     border-radius: 10px;
     font-size: 20pt;
+    border-color: #ff5959;
 }
 
 .donate-heading {
@@ -78,6 +79,57 @@ body {
 }
 
 .search-box {
-    color: #b3b3b3;
-    border-bottom: 5% solid #b3b3b3;
+    width: 40%;
+    padding: 12px 20px;
+    margin: 0% 5% 2%;
+    box-sizing: border-box;
+    border: none;
+    border-bottom: 2px solid #707070;
+    text-align: center;
+    font-size: 16pt;
+}
+
+.donate-plan {
+    margin-top: 5%;
+    text-align: center;
+}
+
+.donate-plan-heading {
+    text-align: center;
+    margin-bottom: 5px;
+    font-size: 50px;
+
+}
+
+.forth-class {
+    display: flex;
+    margin: 5%;
+    margin-bottom: 10%;
+}
+
+.forth-one {
+    width: 33%;
+    background-color: #4f9da6;
+    color: black;
+    padding: 5% 3%;
+    margin-left: 2%;
+    margin-right: 2%;
+}
+
+.forth-two {
+    width: 33%;
+    background-color: #ff5959;
+    color: black;
+    padding: 5% 3%;
+    margin-left: 2%;
+    margin-right: 2%;
+}
+
+.forth-three {
+    width: 33%;
+    background-color: #fff4d6;
+    color: black;
+    padding: 5% 3%;
+    margin-left: 2%;
+    margin-right: 2%;
 }
